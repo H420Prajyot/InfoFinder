@@ -13,8 +13,7 @@ InfoFinder
 
 InfoFinder is an information collection tool (OSINT). It provides various modules that allow efficient searches. InfoFinder does not require an API key or login ID.
 
-<img src="https://github.com/H420Prajyot/InfoFinder/
-
+<img src="https://github.com/H420Prajyot/InfoFinder/txt/Screenshot_2020-08-22-01-26-33.png>
 Disclaimer
 =
 InfoFinder was developed to do self-research and to see private and sensitive information that can be left behind on social media. I do not encourage the use of this tool on anyone other than yourself or to misuse this tool. The authors of InfoFinder cannot be responsible for the use of their tool.
