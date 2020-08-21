@@ -99,7 +99,7 @@ Modules Python
 - terminaltables
 - colorama
 
-Fonctionnalites
+Features :-
 =
  - Lookup:
 	- Phone lookup
