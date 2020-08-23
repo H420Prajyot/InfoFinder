@@ -19,7 +19,7 @@ Disclaimer
 =
 InfoFinder was developed to do self-research and to see private and sensitive information that can be left behind on social media. I do not encourage the use of this tool on anyone other than yourself or to misuse this tool. The authors of InfoFinder cannot be responsible for the use of their tool.
 
-Installation sur Linux
+Installation On Linux
 =
 You must have `git` and` python3` to install on your machine
 ```
