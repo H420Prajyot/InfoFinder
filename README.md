@@ -53,7 +53,8 @@ and run:
     python3 -m pip install -r requirements.txt
 ```
 
-Lancer InfoFinder from Windows:
+
+Launch InfoFinder from Windows:
 =
 - Go to the ** InfoFinder-master ** directory as it was installed and run the command:
 ```
